@@ -1,7 +1,11 @@
-# chepuha.py
-I study Python
+___
+# ___My telegram___ :point_down:
+[![мой тг](https://pngicon.ru/file/uploads/telegram.png)](https://t.me/chepuhadotpy "tap to go")
+___
 
+### Я начал изучать Python восемнадцатого марта 2024 года
+18.03.24
 
-https://github.com/SuperPyDroCh
+Мне понравилась идея программирования в scratch, но само графическое оформление мне категорически не подошло. Я посмотрел в интернете несколько гайдов и понял: мне нужно выбрать нормальный язык программирования. Я выбрал Python, так как его синтаксис напоминает английский язык, который мне так хорошо дается. Около полутора месяцев я изучал Python самостоятельно, прежде чем научиться пользоваться GitHub. Эта платформа сильно упрощает процесс обучения.
 
-:point_up: this is my main account. I'll delete it soon. I'll share all the repositories from there to this account.
+ОГЭ по информатике я буду сдавать на Python. После этого языка программирования планирую изучить C++ :muscle:
