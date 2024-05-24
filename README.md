@@ -1,6 +1,6 @@
 ___
 # ___My telegram___ :point_down:
-[![мой тг](https://pngicon.ru/file/uploads/telegram.png)](https://t.me/chepuhadotpy "tap to go")
+[![мой тг](https://search.app.goo.gl/vV3xVPb)](https://t.me/chepuhadotpy "tap to go")
 ___
 
 ### Я начал изучать Python восемнадцатого марта 2024 года
